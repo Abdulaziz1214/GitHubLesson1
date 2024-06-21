@@ -1,0 +1,16 @@
+.first{
+    font-size: 30px;
+    color: red;
+}
+#ochir{
+    color: blue;
+    list-style: upper-roman;
+}
+body{
+    text-transform: lowercase;
+}
+
+.imgit{
+    width: 400px;
+    opacity: 0.3;
+}
